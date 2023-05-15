@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arlindo2017/react-portfolio/static/css/main.2529f106.css",
+    "main.js": "/arlindo2017/react-portfolio/static/js/main.e1dab3e2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/arlindo2017/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/background.jpg": "/arlindo2017/react-portfolio/static/media/background.c641bc777a070dc61899.jpg",
+    "index.html": "/arlindo2017/react-portfolio/index.html",
+    "main.2529f106.css.map": "/arlindo2017/react-portfolio/static/css/main.2529f106.css.map",
+    "main.e1dab3e2.js.map": "/arlindo2017/react-portfolio/static/js/main.e1dab3e2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/arlindo2017/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2529f106.css",
+    "static/js/main.e1dab3e2.js"
+  ]
+}
